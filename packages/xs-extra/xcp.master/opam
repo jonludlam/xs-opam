@@ -2,7 +2,7 @@ opam-version: "1.2"
 authors: "Dave Scott"
 homepage: "https://github.com/xapi-project/xcp-idl"
 bug-reports: "https://github.com/xapi-project/xcp-idl/issues"
-dev-repo: "git://github.com/xapi-project/xcp-idl"
+dev-repo: "git://github.com/jonludlam/xcp-idl"
 maintainer: "xen-api@lists.xen.org"
 tags: [ "org:xapi-project" ]
 build: [[ "jbuilder" "build" "-p" name "-j" jobs ]]
